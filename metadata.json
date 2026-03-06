@@ -1,0 +1,9 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "JLCPCB Tools - Chris Dimoff Fork for long ref names",
+  "description": "A JLCPCB integration addon for KiCAD",
+  "author": "Chris Dimoff",
+  "version": "1.0.0",
+  "category": "Libraries",
+  "license": "GPL-3.0-or-later"
+}
