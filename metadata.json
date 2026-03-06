@@ -1,9 +1,31 @@
 {
-  "$schema": "https://go.kicad.org/pcm/schemas/v1",
-  "name": "JLCPCB Tools - Chris Dimoff Fork for long ref names",
-  "description": "A JLCPCB integration addon for KiCAD",
-  "author": "Chris Dimoff",
-  "version": "1.0.0",
-  "category": "Libraries",
-  "license": "GPL-3.0-or-later"
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "JLCPCB Tools - Fork",
+    "description": "Forked version of JLCPCB Tools with custom modifications.",
+    "description_full": "This library is a fork of the original JLCPCB Tools, modified to include custom components and features. It is intended for use in KiCad projects and is maintained by Chris Dimoff.",
+    "identifier": "com.github.chrisdimoff.jlcpcb-tools-fork",
+    "type": "plugin",
+    "author": {
+        "name": "Chris Dimoff",
+        "contact": {
+            "web": "https://github.com/chrisdimoff"
+        }
+    },
+    "maintainer": {
+        "name": "Chris Dimoff",
+        "contact": {
+            "web": "https://github.com/chrisdimoff"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://github.com/chrisdimoff/jlcpcb-tools"
+    },
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
 }
